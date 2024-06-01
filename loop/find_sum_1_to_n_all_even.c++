@@ -1,19 +1,17 @@
-//Find Sum of 1ton
+//1ton find sum of all even number
 #include<iostream>
 using namespace std;
 int main(){
     int n;
+    cout<<"Enter number n: ";
     cin>>n;
     int sum=0;
     int i=1;
-    
     while(i<=n){
-        sum=sum+i;
-        i=i+1;
-    }
-    
-    for(int i=1;i<=n;i++){
-        sum=sum+i;
+        if(i%2==0){
+            sum+=i;
+        }
+        i++;
     }
     cout<<sum;
 }
