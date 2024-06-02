@@ -2,7 +2,7 @@
 //****
 //****
 //****
-/* #include<iostream>
+#include<iostream>
 using namespace std;
 int main(){
     //4-Rows, 4-Column of star
@@ -19,10 +19,10 @@ int main(){
         cout<<endl;
         i++;
     }
-}*/
+}
 
 //Another method of doing this problem
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main(){
 int n;
@@ -33,4 +33,4 @@ int n;
        }
        cout<<endl;
     }
-}*/
+}
