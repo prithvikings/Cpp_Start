@@ -28,3 +28,20 @@ int main(){
     cout<<endl;
     return 0;
 }
+
+
+#include<iostream>
+#include<math.h>
+using namespace std;
+int power(int a,int b){
+    int p=pow(a,b);
+    return p;
+}
+int main(){
+    int a,b;
+    cin>>a;
+    cin>>b;
+    int ans=power(a,b);
+    cout<<ans;
+    return 0;
+}
