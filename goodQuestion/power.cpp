@@ -13,7 +13,7 @@ int main(){
     return 0;
 }*/
 
-/*#include<iostream>
+#include<iostream>
 using namespace std;
 int main(){
     int a,b;
@@ -27,35 +27,4 @@ int main(){
     cout<<ans;
     cout<<endl;
     return 0;
-}*/
-
-
-/*#include<iostream>
-#include<math.h>
-using namespace std;
-int power(int a,int b){
-    int p=pow(a,b);
-    return p;
 }
-int main(){
-    int a,b;
-    cin>>a;
-    cin>>b;
-    int ans=power(a,b);
-    cout<<ans;
-    return 0;
-}*/
-
-/*#include<iostream>
-#include<math.h>
-using namespace std;
-int power(){
-    int a,b;
-    cin>>a>>b;
-    int p=pow(a,b);
-    return p;
-}
-int main(){
-    cout<<"Answer is: "<<power()<<endl;
-    return 0;
-}*/
