@@ -8,4 +8,4 @@ int main(){
     cout<<a<<endl;
     cout <<"Character typecast from char to int"<<endl;
     cout<<b<<endl;
-}
+} 
