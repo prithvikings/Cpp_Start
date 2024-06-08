@@ -7,3 +7,4 @@ int main(){
     //cin.get(); iske baare mein padhna hoga
     cout<<"Value of a and b: "<<a <<'&' <<b <<endl;
 }
+ 
