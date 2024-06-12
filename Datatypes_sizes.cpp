@@ -3,7 +3,7 @@
 using namespace std;
 int main(){
 
-    int a=5; //4bytes and 32bit
+    int a=5; //4bytes and 32bit 
     cout<<"Details of Integer: "<<endl;
     cout<<a << endl;
     int sizea=sizeof(a);
